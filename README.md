@@ -30,7 +30,7 @@ On some keyboards (particularly laptops) you might need to trigger the Print Scr
 
 
 
-You can use Snipping Tool to grab a screenshot and save it as an image file without first pasting the screenshot into another program.
+_You can use Snipping Tool to grab a screenshot and save it as an image file without first pasting the screenshot into another program._
 
 1. Start the Snipping Tool from the Start menu.
 
@@ -49,7 +49,7 @@ You can use Snipping Tool to grab a screenshot and save it as an image file with
 
 ## How to take a screenshot on Windows with the Game Bar?
 
-The Game Bar is an overlay you can use within most Windows games to take screenshots and record video. Here's how to use it:
+_The Game Bar is an overlay you can use within most Windows games to take screenshots and record video. Here's how to use it:_
 
 1. Start a game from the Start menu or the Xbox Console Companion program.
 
