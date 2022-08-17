@@ -5,9 +5,7 @@
 [![How to screenshot on windows](red2.png)](https://how-to-screenshot-on-windows.github.io/)
 
 
-If you need to capture a screenshot of something on your computer screen, Windows 10 offers a variety of methods for doing just that.
-
-Whether you want to save the entire screen, or just a piece of it, we've rounded up all the most common techniques for taking a Windows 10 screenshot.
+If you need to capture a screenshot of something on your computer screen, Windows 10 offers a variety of methods for doing just that.Whether you want to save the entire screen, or just a piece of it, we've rounded up all the most common techniques for taking a Windows 10 screenshot.
 
 
 ## How to take a screenshot on Windows with the PrtScn key ?
